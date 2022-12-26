@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.29347dbb.css",
+    "main.js": "/portfolio/static/js/main.de93803b.js",
+    "static/media/cg.png": "/portfolio/static/media/cg.e524ccaf1b30c1b9460d.png",
+    "static/media/breast.png": "/portfolio/static/media/breast.85e48018b000a1e63633.png",
+    "static/media/tata_2.jpg": "/portfolio/static/media/tata_2.5124c4bf4294e0ee5194.jpg",
+    "static/media/Shakib_Sadat_Shanto_CV.pdf": "/portfolio/static/media/Shakib_Sadat_Shanto_CV.1a7ea5942230f933a4b8.pdf",
+    "static/media/tata2.jpg": "/portfolio/static/media/tata2.7d0b6e92f7bf9ff7450a.jpg",
+    "static/media/rideal.png": "/portfolio/static/media/rideal.d1ae090c3000763d3487.png",
+    "static/media/car.jpg": "/portfolio/static/media/car.daec964c811695a4f912.jpg",
+    "static/media/aiub.png": "/portfolio/static/media/aiub.054406a9a964de387659.png",
+    "static/media/bus.jpg": "/portfolio/static/media/bus.76169871b20aa1681053.jpg",
+    "static/media/dhaka_college.png": "/portfolio/static/media/dhaka_college.f14f702a9cae522965dd.png",
+    "static/media/react.png": "/portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.3073214a016de35d9669.png",
+    "static/media/c.png": "/portfolio/static/media/c.2544cc50d1ec81fa3c60.png",
+    "static/media/student.jpg": "/portfolio/static/media/student.b45f1b9b556fb0317821.jpg",
+    "static/media/github.png": "/portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/tab.png": "/portfolio/static/media/tab.19efae9fd858fa21d176.png",
+    "static/media/html.png": "/portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/css.png": "/portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/tensorflow.png": "/portfolio/static/media/tensorflow.54da445689ee93b26a51.png",
+    "static/media/r.png": "/portfolio/static/media/r.4f9de3d85b6b185b856a.png",
+    "static/media/python.png": "/portfolio/static/media/python.0be633603c6982486d43.png",
+    "static/media/javascript.png": "/portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/portfolio/index.html",
+    "main.29347dbb.css.map": "/portfolio/static/css/main.29347dbb.css.map",
+    "main.de93803b.js.map": "/portfolio/static/js/main.de93803b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29347dbb.css",
+    "static/js/main.de93803b.js"
+  ]
+}
